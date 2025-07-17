@@ -1,0 +1,7 @@
+flask
+pillow
+numpy
+opencv-python
+pytesseract
+pymysql
+werkzeug
